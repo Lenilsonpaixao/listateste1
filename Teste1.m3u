@@ -1,7 +1,10 @@
 #EXTM3U
-                                  CANAIS ABERTOS
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/98wbPUt.jpg  " group-title="TV ABERTA",GLOBO RJ OFF
+#PLAYLISTV: pltv-logo"https://i.imgur.com/aENCUAZ.jpg" pltv-name="Lenilson.TV" pltv-description="Lista.teste" pltv-cover="https://i.imgur.com/aENCUAZ.jpg" pltv-author="Lenilson Fontes"
+
+                                    CANAIS ABERTOS
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/98wbPUt.jpg   " group-title="TV ABERTA",GLOBO RJ OFF
 http://cdn.iptvbr.tv:8080/live/Next/x3B1MNJKab4P/1527.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/98wbPUt.jpg  " group-title="",GLOBO SP
@@ -502,5 +505,4 @@ http://23.111.128.190/miamitv/smil:miamitvspain/playlist.m3u8
 http://server.miamitvchannel.com/canal18/smil:canal18/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://olha.ai/ce5raR" group-title="ADULTO", Visit-X
-http://stream.visit-x.tv/vxtv/live/playlist.m3u8# listateste1
-listateste1
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8	
