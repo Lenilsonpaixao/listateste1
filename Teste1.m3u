@@ -1,4 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="XXXX LINK DO LOGO DO CANAL XXX" 
-http://www.assistirtvaovivo.tv/assistir-fox-sports-online.html#modal1.m3u
+#PLAYLISTV: pltv-logo"" pltv-name="Lenilson.TV" pltv-description="Lista.teste" pltv-cover="https://i.imgur.com/aENCUAZ.jpg" pltv-author="Lenilson Fontes"
+
+                                    CANAIS ABERTOS
+
+#EXTINF:0 tvg-logo="
+http://www.assistirtvaovivo.tv/assistir-fox-sports-online.html#modal1
